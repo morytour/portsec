@@ -39,15 +39,14 @@
             <div id="page-content" class="light-content">
 
                 <!-- Header -->
-                <header class="classic-menu">
+                <header class="classic-menu" style="background-color: black;">
                     <div id="header-container">
 
 
                         <!-- Logo -->
                         <div id="logo" class="hide-ball">
-                            <a class="ajax-link" data-type="page-transition" href="index-2.html">
-                                <img class="black-logo" src="images/logo.png" alt="ClaPat Logo">
-                                <img class="white-logo" src="images/logo-white.png" alt="ClaPat Logo">
+                            <a class="ajax-link" data-type="page-transition" href="index.php">
+                                Port Sec de Ferkéssedougou
                             </a>
                         </div>
                         <!--/Logo -->
@@ -61,22 +60,30 @@
                                         <ul data-breakpoint="1025" class="flexnav">
                                             <li class="link menu-timeline">
                                                 <a class="ajax-link" href="index.php">
-                                                    <h4><div class="" >ACCUEIL</div></h4>
+                                                    <h4>
+                                                        <div class="">ACCUEIL</div>
+                                                    </h4>
                                                 </a>
                                             </li>
                                             <li class="link menu-timeline">
                                                 <a class="ajax-link" href="about.php">
-                                                    <h4><div class="" >LE PORT SEC</div></h4>
+                                                    <h4>
+                                                        <div class="">LE PORT SEC</div>
+                                                    </h4>
                                                 </a>
                                             </li>
                                             <li class="link menu-timeline">
                                                 <a class="ajax-link" href="portfolio.php">
-                                                    <h4><div class="" >GALERIE</div> </h4>
+                                                    <h4>
+                                                        <div class="">GALERIE</div>
+                                                    </h4>
                                                 </a>
                                             </li>
                                             <li class="link menu-timeline">
                                                 <a class="ajax-link" href="contact.php">
-                                                    <h4> <div class="" >CONTACT</div> </h4>
+                                                    <h4>
+                                                        <div class="">CONTACT</div>
+                                                    </h4>
                                                 </a>
                                             </li>
                                         </ul>
