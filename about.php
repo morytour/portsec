@@ -29,18 +29,15 @@ include 'inc/header.php';
                 <!-- Row -->
                 <div class="vc_row row_padding_top row_padding_bottom white-section" data-bgcolor="#fff">
 
-                    <img src="images/portsec.jpg" width="200%">
+                    <img src="images/08hero.jpg">
 
-                    <!-- <h1 class="has-mask" data-delay="200">Our Services</h1>
+                    <h1 class="has-mask" data-delay="200"></h1>
 
                     <hr>
                     <hr>
 
                     <div class="one_fourth">
-                        <div class="clapat-icon has-animation" data-delay="0">
-                            <i class="fa fa-desktop" aria-hidden="true"></i>
-                        </div>
-                        <h5 class="has-mask" data-delay="0">Web Design</h5>
+                        <h5 class="has-mask" data-delay="0">I- PRÉSENTATION DU PORT SEC DE FERKESSÉDOUGOU<br> </h5>
                     </div>
 
                     <div class="three_fourth last">
@@ -53,7 +50,7 @@ include 'inc/header.php';
                         <div class="clapat-icon has-animation" data-delay="0">
                             <i class="fa fa-pencil" aria-hidden="true"></i>
                         </div>
-                        <h5 class="has-mask" data-delay="0">Development</h5>
+                        <h5 class="has-mask" data-delay="0">II- Development</h5>
                     </div>
 
                     <div class="three_fourth last">
@@ -112,7 +109,7 @@ include 'inc/header.php';
                         <p class="has-animation" data-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis sagittis nunc, sed pulvinar quam. In hac habitasse platea dictumst. Etiam dignissim arcu in massa hendrerit venenatis. Donec vel justo pulvinar, dictum nisi eget, faucibus elit. Sed nisi sem, ornare vitae urna in, laoreet fringilla purus.</p>
                     </div>
 
-                    <hr> -->
+                    <hr> 
 
 
 
