@@ -12,8 +12,8 @@ include 'inc/header.php';
             <div id="hero-styles" class="parallax-onscroll">
                 <div id="hero-caption">
                     <div class="inner">
-                        <div class="hero-subtitle">About Us</div>
-                        <div class="hero-title">We are a brand and digital <br class="destory">creative agency</div>
+                        <div class="hero-subtitle"></div>
+                        <div class="hero-title">Découvrez le Port Sec de <br class="destory">Ferkessédougou</div>
                     </div>
                 </div>
             </div>
@@ -26,30 +26,12 @@ include 'inc/header.php';
             <!-- Main Page Content -->
             <div id="main-page-content">
 
-
-
-                <!-- Row -->
-                <div class="vc_row row_padding_top row_padding_bottom">
-
-                    <hr>
-
-                    <div class="one_half">
-
-                        <h3 class="has-mask" data-delay="100">Agency, Consultancy, Human</h3>
-                        <p class="has-animation" data-delay="200">We combine design, technology and business strategy into a unified discipline powerful enough to propel companies forward. </p>
-
-                    </div>
-
-                    <div class="one_half last"></div>
-
-                </div>
-                <!--/Row -->
-
-
                 <!-- Row -->
                 <div class="vc_row row_padding_top row_padding_bottom white-section" data-bgcolor="#fff">
 
-                    <h1 class="has-mask" data-delay="200">Our Services</h1>
+                    <img src="images/portsec.jpg" width="200%">
+
+                    <!-- <h1 class="has-mask" data-delay="200">Our Services</h1>
 
                     <hr>
                     <hr>
@@ -130,35 +112,9 @@ include 'inc/header.php';
                         <p class="has-animation" data-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis sagittis nunc, sed pulvinar quam. In hac habitasse platea dictumst. Etiam dignissim arcu in massa hendrerit venenatis. Donec vel justo pulvinar, dictum nisi eget, faucibus elit. Sed nisi sem, ornare vitae urna in, laoreet fringilla purus.</p>
                     </div>
 
-                    <hr>
+                    <hr> -->
 
 
-
-                </div>
-                <!--/Row -->
-
-
-                <!-- Row -->
-                <div class="vc_row row_padding_top">
-
-                    <h5 class="has-animation" data-delay="0">Clients</h5>
-                    <h1 class="has-mask" data-delay="100">Some customers we work with</h1>
-
-                    <hr>
-                    <hr>
-
-                    <!-- Clients Table -->
-                    <ul class="clients-table has-animation" data-delay="10">
-                        <li class="link has-animation" data-delay="150"><img src="images/client-01.png" alt="client"></li>
-                        <li class="link has-animation" data-delay="200"><img src="images/client-02.png" alt="client"></li>
-                        <li class="link has-animation" data-delay="250"><img src="images/client-03.png" alt="client"></li>
-                        <li class="link has-animation" data-delay="300"><img src="images/client-04.png" alt="client"></li>
-                        <li class="link has-animation" data-delay="150"><img src="images/client-05.png" alt="client"></li>
-                        <li class="link has-animation" data-delay="200"><img src="images/client-06.png" alt="client"></li>
-                        <li class="link has-animation" data-delay="250"><img src="images/client-07.png" alt="client"></li>
-                        <li class="link has-animation" data-delay="300"><img src="images/client-08.png" alt="client"></li>
-                    </ul>
-                    <!--/Clients Table -->
 
                 </div>
                 <!--/Row -->
